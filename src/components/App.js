@@ -17,6 +17,8 @@ function App() {
     if (correct) {
       setScore((score) => score + 1);
     }
+
+
   }
 
   return (
